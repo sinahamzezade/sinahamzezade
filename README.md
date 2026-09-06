@@ -63,7 +63,7 @@ I'm comfortable working in international, English-speaking engineering environme
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sina_Hamzezadeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sina-hamzehzadeh-195b0676)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sina_Hamzezadeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sina-hamzehzadeh-195b0676/)
 
 Senior Frontend Engineer · Senior Full-Stack Engineer  
 Open to international opportunities & relocation across Europe.
